@@ -1,8 +1,13 @@
 # Job-Fair-Compaigning-System-for-2022-MeiChu-Hackthon 
 A Linebot project designed for all 500 participants
-## Features
-Implemented by Django framework and using Django Administration for database  
-To see the result of this linebot, you need to push the whole project to the internet and copy the url of your repository to your linebot account in Line Developer.  
+## Programming Language
+python
+## Frameworks and tools
+Django, heroku, LINE Bot, Django Administration, LINE APIs
+## Introduction
+People in MeiChu Hackthon came to job fair. LINE Bot serves as a medium to attract people to visit different incorporations.
+Once they visit an incorporation, they could get some points, randomly ranging from 100 to 300.
+As soon as they get enough points, they can join the lottery.  
 ## Run The Server
 ```
 python manage.py runserver
